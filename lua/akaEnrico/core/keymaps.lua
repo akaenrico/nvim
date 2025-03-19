@@ -1,5 +1,4 @@
-print("Inside Core Keymaps")
--- set leader key to space
+-- Set leader key to space
 vim.g.mapleader = " "
 
 local keymap = vim.keymap
