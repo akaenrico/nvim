@@ -23,6 +23,7 @@ return {
         "ts_ls", -- JavaScript and TypeScript
         "prismals", -- Prisma
         "html", -- HTML
+        "emmet_ls", -- EMMET
         "cssls", -- CSS
         "tailwindcss", -- Tailwind CSS
         "volar", -- Vue
