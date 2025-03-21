@@ -5,6 +5,8 @@ return {
     local lualine = require("lualine")
     local lazy_status = require("lazy.status") -- To configure lazy pending updates count
 
+    -- TODO: Edit the theme in the future
+
     local colors = {
       blue = "#65D1FF",
       green = "#3EFFDC",
